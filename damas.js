@@ -81,7 +81,7 @@ function tabuleiro(){
         }
       }
       else{
-        cel.style.backgroundColor = 'light green';
+        cel.style.backgroundColor = 'white';
       }
     }
   }
